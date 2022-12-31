@@ -9,15 +9,3 @@ and the other-way-around (using Flask-Smorest package).
 
 Like said earlier, the back-end of the web application is done using Flask, and written using only what is written inside of the requirements.txt file
 There will more on this later on the creation of the app
-
-## Front-end
-
-The front-end would have been done using Flask, because Flask is using Jinja templating engine in order to create front-end inside of the blueprints (that are only used
-for back-end purposes actually).
-
-The front-end will be done using one of the following framework:
-* Angular
-* ReactJS
-* VueJS
-
-There will be also a Qt application in order to fetch some back-end endpoint. More on this later also.
